@@ -3,4 +3,11 @@
 #song for angry facial emotions
 #First step is to importing libraries which are useful
 import pygame
+#code for playing songs for happy facial expressions
+#First step is to openCV for facial expression recognition
+import cv2
+#import pygame for audio playback
+import pygame
+#import random module to generate random song
+import random
 
