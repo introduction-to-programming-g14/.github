@@ -1,12 +1,5 @@
 ## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This is a project on music recommendation based on your current mood.
+Music is still one of the most important factor in our day to day life. It helps us to deal with the huddles that life seems to like to throw at us.
+The music we choose varies according to our moods.
+This humble project of ours, helps the user to choose music with less hassle because it can detect your emotion in real time and play music accordingly.
