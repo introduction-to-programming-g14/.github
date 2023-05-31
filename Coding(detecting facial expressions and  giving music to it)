@@ -1,2 +1,6 @@
 #codes for songs
 #songs for happiness,sadness,angryness etc
+#song for angry facial emotions
+#First step is to importing libraries which are useful
+import pygame
+
