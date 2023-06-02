@@ -4,9 +4,5 @@
 #First step is to importing libraries which are useful
 #Next capturing the face data and process it
 #Next implementing facial recognition code
-#deciding the songs
-#playing songs according to expressions
-#creating an app
-import pygame
-import tkinker
+
 
