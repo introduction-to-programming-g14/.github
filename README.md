@@ -15,5 +15,5 @@
  And capturing a real time image(that is we are not uploading a pre-existing one)
  #### ABOUT USED LIBRARIES:
  keras:  Keras allows you to define and train models easily, making it a popular choice for deep learning tasks.It is mainly used for training networks.
- 
+ OpenCV: OpenCV (Open Source Computer Vision Library) is a popular computer vision library that provides a wide range of functions and algorithms for image and video processing.
  
