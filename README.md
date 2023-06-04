@@ -14,5 +14,5 @@
  Next one is for opening webcam 
  And capturing a real time image(that is we are not uploading a pre-existing one)
  #### ABOUT USED LIBRARIES:
- keras:  Keras allows you to define and train models easily, making it a popular choice for deep learning tasks.
+ keras:  Keras allows you to define and train models easily, making it a popular choice for deep learning tasks.It is mainly used for training networks.
  
