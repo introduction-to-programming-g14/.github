@@ -21,4 +21,7 @@
  ##### KEY WORDS:
  Face detection: Detects faces in an image through web cam.
  Emotion detection: Recognizes facial expressions and emotions.
-    Face recognition is a technology that involves identifying and verifying individuals based on their facial features. It has gained significant attention in recent years due to its wide range of applications, including surveillance systems, biometric authentication, and social media tagging.
+ Emotion detection from facial expressions is an active area of research in computer vision and artificial intelligence. It has a wide range of     applications, including human-computer interaction, market research, mental health analysis. 
+ This project is based on python, deep learning.
+ The code provided in this repository uses a pre-trained deep learning model to detect faces in images and then predicts the corresponding emotions. The model is trained on a large dataset of labeled facial expressions.
+ We will be seeing bounding boxes around detected faces along with the predicted emotion labels.
