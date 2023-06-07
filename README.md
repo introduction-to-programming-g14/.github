@@ -10,12 +10,15 @@
  Our code works as shown below.
  First importing libraries like keras,tensorflow,OpenCv,numpy etc.
  The next is over model, which is in HDF(hierarchy Data Format)
- Then we are stating the emotions in a list like "Angry","sad","happy" etc.
- Next one is for opening webcam 
- And capturing a real time image(that is we are not uploading a pre-existing one)
+ Then we are stating the emotions in a list like "Angry","sad","happy","Disgust","surprise","Neutral" etc....
+ Next one is for opening webcam. 
+ And capturing a real time image(that is we are not uploading a pre-existing one).
  #### ABOUT USED LIBRARIES:
  keras:  Keras allows us to define and train models easily, making it a popular choice for deep learning tasks.It is mainly used for training       networks. Keras is used for creating deep models that can be productized on smartphones.
  OpenCV: OpenCV (Open Source Computer Vision Library) is a popular computer vision library that provides a wide range of functions and algorithms   for image and video processing.It provides various methods for detecting, recognizing, and analyzing faces and facial expressions in our         code.It is also used for preprocessing the image data such as inverting,resizing,cropping...etc.
  numpy: It is a fundamental library for scientific computing in python.In our project NumPy is also used for manipulating and processing the       image data as arrays.
  tensorflow: It provides various tools and functions for building, training, and deploying complex models on different platforms and devices. In   our project tensorflow is used for implementing the core algorithms and computations involved in facial emotion recognition.
- 
+ ##### KEY WORDS:
+ Face detection: Detects faces in an image through web cam.
+ Emotion detection: Recognizes facial expressions and emotions.
+    Face recognition is a technology that involves identifying and verifying individuals based on their facial features. It has gained significant attention in recent years due to its wide range of applications, including surveillance systems, biometric authentication, and social media tagging.
