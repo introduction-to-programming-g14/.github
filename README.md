@@ -35,3 +35,8 @@ The approach and methodology employed in the provided code can be summarized as 
  Accuracy: The training accuracy reached a maximum of 67.6%, while the validation accuracy reached a maximum of 73.7%.  
  Loss: The training loss was reduced to a minimum of 0.860, while the validation loss was reduced to a minimum of 0.709.  
 ![Accuracy plot](accuracy.png)
+The training process took a significant amount of time, with a total of approximately 20 hours and 7 minutes. The wall time, which accounts for the actual time elapsed, was around 11 hours and 33 minutes.  
+
+ ## Data Preparation (optional)
+
+* The [original FER2013 dataset in Kaggle](https://www.kaggle.com/deadskull7/fer2013) is available as a single csv file. I had converted into a dataset of images in the PNG format for training/testing.
